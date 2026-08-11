@@ -1,0 +1,184 @@
+
+.menu-icon {
+  font-size: 35px;
+  cursor: pointer;
+  position: fixed;
+  top: 16px;
+  left: 8px;
+  color: #DAA520;
+}
+
+.menu {
+  position: fixed;
+  top: 0px;
+  left: -250px;
+  width: 220px;
+  height: 100vh;
+  overflow-y: auto;
+  background: #696969;
+  transition: 40px;
+  transition: 0.3s;
+}
+
+.menu a {
+  display: block;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.close-btn{
+    background:none;
+    border:none;
+    color: red;
+    font-size:35px;
+    cursor:pointer;
+    margin:10px;
+    float:right;
+}
+
+h1 { 
+  background: rgba(255,255,255,0.1);
+  background-filter: blur(10px);
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+  color: white;
+}
+  
+
+.lable1 { 
+  text-align: center;
+  font-family: Georgia, sertf;
+  color: white;
+}
+
+body {
+  background-image: url(gradient-imagex.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+  
+
+.hs4 { 
+  text-align: center;
+  margin: 20;
+  color: white;
+}
+
+.pz1 {
+  background: rgba(255,255,255,0.1);
+  background-filter: blur(10px);
+  width: 0 auto;
+  height; 0 auto
+  font-family: Georgia, serif;
+}
+
+.hs2 { 
+  text-align: center;
+  color: white;
+  font-family: Georgia, serif;
+  text-shadow: 2px 2px 5px white;
+}
+
+.fh2 {
+  text-align: center;
+  color: #dcdcdc;
+}
+
+.lable2 { 
+  color: white;
+  text-align: center;
+  margin: 20;
+}
+
+.pz2 { 
+  text-align: center;
+  color: white;
+  font-family: 'orbitron', sans-serif;
+}
+
+.hs3 { 
+  text-align: right;
+  color: white;
+}
+
+.menu-icon { 
+  background: rgba(255,255,2550.1);
+  background-filter: blur(10px)
+  padding: 20px;
+  font-size: 25px;
+  color: black;
+}
+
+.pz1 { 
+  color: white;
+  text-align: right;
+}
+
+.contact1 {
+  text-align: center;
+  color: white;
+}
+
+.btn2 { 
+  display: inline-block !important;
+  width: auto !important;
+}
+
+.whatsapp { 
+  display: flex;
+  justify-content: center;
+}
+
+.btn2 { 
+  text-decoration: none;
+  color: white;
+  background: rgba(255,255,255,0.1);
+  padding: 20px;
+  width: 70px;
+  border-radius: 20px; 
+  display: inline-block;
+  font-size: 20px;
+  font-family: Georgia, serif;
+  font-weight: bold;
+}
+
+.btn2:hover { 
+  background-color: white;
+}
+
+#dcx { 
+  display: flex;
+  justify-content: center;
+  height: 8vh; 
+}
+
+.div1 { 
+  text-align: center;
+}
+
+hr {
+  width: 80%;
+  border: none;
+  height: 1px;
+  background: white;
+}
+
+.lable6 { 
+  justify-content: center;
+}
+
+.wc { 
+  color: red;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+  
+  .wc1 { 
+    color: green;
+    text-align: center;
+    font-weight: bold;
+  }
